@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/personalportfolio/static/css/main.1b6bb064.css",
+    "main.js": "/personalportfolio/static/js/main.52398b31.js",
+    "static/media/IMG_2290.jpeg": "/personalportfolio/static/media/IMG_2290.b658ac03244edaa903d9.jpeg",
+    "static/media/papa.JPG": "/personalportfolio/static/media/papa.c39b8820cfc626051b12.JPG",
+    "static/media/jassi.jpeg": "/personalportfolio/static/media/jassi.e24938d8d8ce7f841e7e.jpeg",
+    "static/media/IMG_3171.JPG": "/personalportfolio/static/media/IMG_3171.c5f235709676d7288c94.JPG",
+    "static/media/IMG_2173 2.jpeg": "/personalportfolio/static/media/IMG_2173 2.2122929416740fa17e8d.jpeg",
+    "static/media/John-Cv.pdf": "/personalportfolio/static/media/John-Cv.e83747cf513e0b21a7f1.pdf",
+    "index.html": "/personalportfolio/index.html",
+    "main.1b6bb064.css.map": "/personalportfolio/static/css/main.1b6bb064.css.map",
+    "main.52398b31.js.map": "/personalportfolio/static/js/main.52398b31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b6bb064.css",
+    "static/js/main.52398b31.js"
+  ]
+}
