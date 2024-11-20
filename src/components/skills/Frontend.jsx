@@ -50,7 +50,7 @@ const Frontend = () => {
 
             <div>
               <h3 className="skills__name">Git/Github</h3>
-              <span className="skills__level">Intermediate</span>
+              <span className="skills__level">Expert</span>
             </div>
           </div>
 
