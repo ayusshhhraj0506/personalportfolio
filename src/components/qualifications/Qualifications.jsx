@@ -72,10 +72,10 @@ const Qualifications = () => {
             <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">
-                  Sri Aurobindo Collage , Delhi university
+                  Sri Aurobindo College , Delhi university
                 </h3>
                 <span className="qualification__subtitle">
-                  Delhi , India - Collage
+                  Delhi , India - College
                 </span>
                 <div className="qualification__calender">
                   <i className="uil uil-calendar-alt"></i> 2018 - 2021
@@ -126,12 +126,15 @@ const Qualifications = () => {
               </div>
 
               <div>
-                <h3 className="qualification__title">Fresher</h3>
+                <h3 className="qualification__title">
+                  The Skill Guru Foundation
+                </h3>
                 <span className="qualification__subtitle">
-                  Aspiring Web Developer
+                  Frontend Web Developer Internship
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2023 - Present
+                  <i className="uil uil-calendar-alt"></i> September'24 -
+                  October'24
                 </div>
               </div>
             </div>
